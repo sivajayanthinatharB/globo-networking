@@ -13,3 +13,6 @@
 
 # .pem files
 *.pem
+
+# backend_loacl.tf
+backend_local.tf
