@@ -37,3 +37,9 @@ variable "Environment" {
 
 }
 
+variable "billing_code" {
+
+  type        = string
+  description = "Required billing code"
+
+}
